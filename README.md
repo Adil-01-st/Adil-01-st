@@ -12,6 +12,7 @@
   <a href="https://mail.google.com/mail/u/2/#inbox">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <img src="https://github.com/Adil-01-st/ghpvc/?username=adil-01-st&style=flat-square&color=blue" alt=""/>
 
 
 </div>
