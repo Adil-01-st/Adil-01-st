@@ -29,3 +29,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJxYmdzazc5cHBuNnB1eDk4dnp0emdmanQ0MnRkZnl1bGxxenVneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lx83o4ZJIxYA/giphy.gif" width="600" height="300"/>
 </div>
 
+### :man_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
