@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/adilbek-khiiasov-08503923a/">
+  <a href="https://www.linkedin.com/in/adil-khiiasov-66a299379/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -44,7 +44,7 @@ Tableau), and preparing business plans and technical documentation.
 - :zap:  Delivered measurable results, including launching a Shopify store that increased sales through
 price optimization and improved advertising campaigns.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/adil-khiiasov-66a299379/)]
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adil-khiiasov-66a299379/)
 
 
   ---
