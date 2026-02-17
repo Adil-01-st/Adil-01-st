@@ -37,14 +37,12 @@ I'm Adil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
 
 - :telescope: I’m working as Business Analyst with Full-Stack development experience (JavaScript, TypeScript,
 React.js, SQL), able to turn data and business requirements into practical solutions.
-Experienced in working with Scrum and Kanban, data visualization (Power BI,
-Tableau), and preparing business plans and technical documentation. Delivered
-measurable results, including launching a Shopify store that increased sales through
+
+- :seedling: Experienced in working with Scrum and Kanban, data visualization (Power BI,
+Tableau), and preparing business plans and technical documentation.
+
+- :zap:  Delivered measurable results, including launching a Shopify store that increased sales through
 price optimization and improved advertising campaigns.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adilbek-khiiasov-08503923a/)
 
