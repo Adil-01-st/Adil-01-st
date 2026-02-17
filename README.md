@@ -54,7 +54,6 @@ price optimization and improved advertising campaigns.
 1 Project - Sales and Website Funnel Analysis on Shopify
 Business Analyst | Data-Driven Decision Making | E-commerce Analytics
 
----
 
 ## 🚀 Featured Business Analytics Project
 
@@ -69,7 +68,6 @@ Business case study focused on:
 🔗 **Project Repository:**  
 👉 https://github.com/Adil-01-st/Sales-and-Website-Funnel-Analysis-on-Shopify
 
----
 
 ## 🛠 Tools & Skills
 
