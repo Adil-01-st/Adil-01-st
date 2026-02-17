@@ -46,6 +46,39 @@ price optimization and improved advertising campaigns.
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adil-khiiasov-66a299379/)
 
+- 
+
+# My BA projects
+
+Business Analyst | Data-Driven Decision Making | E-commerce Analytics
+
+---
+
+## 🚀 Featured Business Analytics Project
+
+### 📊 Shopify Sales & Website Funnel Analysis
+
+Business case study focused on:
+- Funnel bottleneck identification
+- KPI analysis (CR, ARPU, LTV, CAC)
+- Traffic channel performance
+- Conversion optimization hypotheses
+
+🔗 **Project Repository:**  
+👉 https://github.com/Adil-01-st/Sales-and-Website-Funnel-Analysis-on-Shopify
+
+---
+
+## 🛠 Tools & Skills
+
+- Business Analysis
+- KPI & Funnel Analysis
+- Power BI
+- Excel
+- BPMN
+- Data Visualization
+
+
 
   ---
 
