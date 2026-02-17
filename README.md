@@ -44,7 +44,7 @@ Tableau), and preparing business plans and technical documentation.
 - :zap:  Delivered measurable results, including launching a Shopify store that increased sales through
 price optimization and improved advertising campaigns.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adilbek-khiiasov-08503923a/)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/adil-khiiasov-66a299379)
 
 
   ---
