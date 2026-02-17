@@ -35,7 +35,12 @@
 
 I'm Adil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a FullStack Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as Business Analyst with Full-Stack development experience (JavaScript, TypeScript,
+React.js, SQL), able to turn data and business requirements into practical solutions.
+Experienced in working with Scrum and Kanban, data visualization (Power BI,
+Tableau), and preparing business plans and technical documentation. Delivered
+measurable results, including launching a Shopify store that increased sales through
+price optimization and improved advertising campaigns.
 
 - :seedling: Exploring Technical Content Writing.
 
