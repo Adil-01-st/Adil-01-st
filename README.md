@@ -36,7 +36,7 @@
 I'm Adil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working as Business Analyst with Full-Stack development experience (JavaScript, TypeScript,
-React.js, SQL), able to turn data and business requirements into practical solutions.
+React.js, Nest.js, SQL), able to turn data and business requirements into practical solutions.
 
 - :seedling: Experienced in working with Scrum and Kanban, data visualization (Power BI,
 Tableau), and preparing business plans and technical documentation.
