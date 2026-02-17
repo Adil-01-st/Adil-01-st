@@ -51,6 +51,7 @@ price optimization and improved advertising campaigns.
 
 # My BA projects
 
+1 Project - Sales and Website Funnel Analysis on Shopify
 Business Analyst | Data-Driven Decision Making | E-commerce Analytics
 
 ---
