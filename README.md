@@ -66,7 +66,7 @@ Business case study focused on:
 - Conversion optimization hypotheses
 
 🔗 **Project Repository:**  
-👉 https://github.com/Adil-01-st/Sales-and-Website-Funnel-Analysis-on-Shopify
+👉 [Sales-and-Website-Funnel-Analysis-on-Shopify](https://github.com/Adil-01-st/Sales-and-Website-Funnel-Analysis-on-Shopify)
 
 
 ## 🛠 Tools & Skills
