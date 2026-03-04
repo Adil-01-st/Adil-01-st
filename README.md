@@ -79,8 +79,22 @@ Business case study focused on:
 - Data Visualization
 
 
-
   ---
+
+## 🚀 Featured SQL Analytics Project
+
+### 🛠️ Technical BA SQL Toolbox
+
+A professional-grade analytics engine demonstrating advanced database querying and business intelligence logic. This project focuses on:
+- **Revenue Strategy**: Identifying "Cash Cow" products using `RANK()` window functions.
+- **Growth Tracking**: Monitoring revenue velocity and MoM (Month-over-Month) growth with Running Totals.
+- **Segmentation**: Isolating VIP customers via `CTEs` and `PERCENT_RANK` for retention modeling.
+- **Data Integrity**: Implementing logic to filter anomalies and handle null-value transactions.
+- **Performance**: Architecture optimized for high-scale data with strategic indexing plans.
+
+🔗 **Project Repository:** 👉 [Technical-BA-SQL-Toolbox](https://github.com/Adil-01-st/Technical-BA-SQL-Toolbox)
+
+---
 
  
 
